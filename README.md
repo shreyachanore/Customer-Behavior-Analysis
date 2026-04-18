@@ -136,8 +136,8 @@ Feel free to open an issue or submit a pull request.
 
 **Your Name**  
 Shreya Chanore
-shreyachanore@gmail.com
-www.linkedin.com/in/shreyachanore
+/shreyachanore@gmail.com
+/www.linkedin.com/in/shreyachanore
 
 
 ---
