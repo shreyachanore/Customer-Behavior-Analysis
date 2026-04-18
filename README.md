@@ -88,13 +88,11 @@ The dataset contains **3,900+ rows** of anonymized retail transactions with **18
 
 | Tool | Purpose |
 |------|---------|
-| ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) | Dashboard & data visualization |
-| ![Excel/CSV](https://img.shields.io/badge/CSV-217346?style=flat&logo=microsoftexcel&logoColor=white) | Raw data storage |
-| ![Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=flat&logo=microsoftword&logoColor=white) | Written analysis report |
+| 🐍 Python (Pandas) | Data cleaning, transformation & EDA |
+| 🐘 PostgreSQL | Structured data storage & SQL queries |
+| 📊 Power BI | Dashboard & data visualization |
+| 📄 Microsoft Word | Written analysis report |
 
----
-
-## 🚀 Getting Started
 
 ### View the Dashboard
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
